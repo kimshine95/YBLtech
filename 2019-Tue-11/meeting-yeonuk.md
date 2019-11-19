@@ -7,6 +7,12 @@ author : yeonuk44
 
 ## Summary
 
-- [ ] 진행중인 내용
-- [x] 끝난 내용
-- [ ] 학습한 내용
+### check list
+- [x] Server_CRUD
+- [x] Server_SignUp
+- [x] Server_Login
+- [x] Server_Board
+- [x] Server_PublicAPI-utilization
+- [ ] Substantial develop
+- [ ] Linking Frontends with API
+
